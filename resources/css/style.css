@@ -1,0 +1,34 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+p {
+  font-size:14px;
+}
+h1, h2, h3 {font-weight:bold;
+}
+#broadwaydesign {
+  font-size:70px;
+}
+.header {
+  background-image: url("../images/background.png");
+  color:white;
+}
+.process {
+  font-size:32px;
+}
+.subhead {
+  font-size: 23;
+}
+.copyright {
+  text-align: left;
+  background-color: dimgray;
+}
+.link {
+  font-size:18px;
+  color: white;
+}
+span {
+  font-size: 11px;
+  color: white;
+}
